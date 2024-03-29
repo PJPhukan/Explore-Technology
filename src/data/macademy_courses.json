@@ -1,0 +1,74 @@
+{
+ "courses" : [
+        {
+            "id": 1,
+            "title": "Web Development Fundamentals",
+            "slug": "web-development-fundamentals",
+            "description": "Learn the basics of web development including HTML, CSS, and JavaScript.",
+            "price": 49.99,
+            "instructor": "John Doe",
+            "isFeatured": true,
+            "image": "web-dev-fundamentals.jpg"
+        },
+        {
+            "id": 2,
+            "title": "React.js Masterclass",
+            "slug": "reactjs-masterclass",
+            "description": "Master React.js and build modern web applications with this comprehensive course.",
+            "price": 79.99,
+            "instructor": "Jane Smith",
+            "isFeatured": false,
+            "image": "react-masterclass.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Python Programming for Beginners",
+            "slug": "python-programming-for-beginners",
+            "description": "Start your journey into programming with Python. Perfect for beginners!",
+            "price": 39.99,
+            "instructor": "Mike Johnson",
+            "isFeatured": true,
+            "image": "python-beginners.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Data Science Essentials",
+            "slug": "data-science-essentials",
+            "description": "Explore the fundamental concepts of data science, including data analysis and machine learning.",
+            "price": 99.99,
+            "instructor": "Emily Brown",
+            "isFeatured": false,
+            "image": "data-science-essentials.jpg"
+        },
+        {
+            "id": 5,
+            "title": "JavaScript Advanced Techniques",
+            "slug": "javascript-advanced-techniques",
+            "description": "Deepen your JavaScript skills with advanced techniques such as closures, prototypes, and async programming.",
+            "price": 69.99,
+            "instructor": "David White",
+            "isFeatured": true,
+            "image": "javascript-advanced.jpg"
+        },
+        {
+            "id": 6,
+            "title": "UI/UX Design Principles",
+            "slug": "ui-ux-design-principles",
+            "description": "Learn the principles of user interface and user experience design to create intuitive and engaging digital products.",
+            "price": 59.99,
+            "instructor": "Sarah Green",
+            "isFeatured": false,
+            "image": "ui-ux-design.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Mobile App Development",
+            "slug": "mobile-app-development",
+            "description": "Build mobile apps for iOS and Android platforms using frameworks like React Native and Flutter.",
+            "price": 89.99,
+            "instructor": "Michael Anderson",
+            "isFeatured": true,
+            "image": "mobile-app-development.jpg"
+        }
+    ]
+}
