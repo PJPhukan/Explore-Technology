@@ -22,7 +22,7 @@ const Navber = ({ className }: { className?: string }) => {
           ></MenuItem>
         </Link>
 
-        <MenuItem setActive={setActive} active={active} item="Our Courses">
+        <MenuItem setActive={setActive} active={active} item="Courses">
           <div className="flex flex-col space-y-4 ">
             <HoveredLink href="/all-couse">All Couses</HoveredLink>
             <HoveredLink href="/web-dev">Web Development</HoveredLink>
