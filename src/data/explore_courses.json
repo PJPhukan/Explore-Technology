@@ -1,10 +1,10 @@
 {
- "courses" : [
+    "courses": [
         {
             "id": 1,
             "title": "Web Development Fundamentals",
             "slug": "web-development-fundamentals",
-            "description": "Learn the basics of web development including HTML, CSS, and JavaScript.",
+            "description": "Learn the basics of web development including HTML, CSS, JAVASCRIPT ,NODEJS ,MONGODB and Express",
             "price": 49.99,
             "instructor": "John Doe",
             "isFeatured": true,
@@ -12,19 +12,19 @@
         },
         {
             "id": 2,
-            "title": "React.js Masterclass",
+            "title": "React.js Advanced Techniques",
             "slug": "reactjs-masterclass",
             "description": "Master React.js and build modern web applications with this comprehensive course.",
             "price": 79.99,
             "instructor": "Jane Smith",
-            "isFeatured": false,
+            "isFeatured": true,
             "image": "react-masterclass.jpg"
         },
         {
             "id": 3,
             "title": "Python Programming for Beginners",
             "slug": "python-programming-for-beginners",
-            "description": "Start your journey into programming with Python. Perfect for beginners!",
+            "description": "Start your journey into programming field with Python programming language. Perfect for beginners!",
             "price": 39.99,
             "instructor": "Mike Johnson",
             "isFeatured": true,
@@ -57,14 +57,14 @@
             "description": "Learn the principles of user interface and user experience design to create intuitive and engaging digital products.",
             "price": 59.99,
             "instructor": "Sarah Green",
-            "isFeatured": false,
+            "isFeatured": true,
             "image": "ui-ux-design.jpg"
         },
         {
             "id": 7,
             "title": "Mobile App Development",
             "slug": "mobile-app-development",
-            "description": "Build mobile apps for iOS and Android platforms using frameworks like React Native and Flutter.",
+            "description": "Build mobile applications for iOS and Android platforms using differet frameworks like React Native and Flutter.",
             "price": 89.99,
             "instructor": "Michael Anderson",
             "isFeatured": true,
