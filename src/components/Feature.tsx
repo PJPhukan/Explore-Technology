@@ -35,7 +35,7 @@ const Feature = () => {
       <div className="mt-10">
         <div className=" grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 justify-center">
           {featureCourses.map((courses: Course) => (
-            <div className="flex justify-center" key={courses.id}>
+            <div className="flex justify-center " key={courses.id}>
               <BackgroundGradient className="rounded-[22px] max-w-sm p-4 sm:p-10 bg-white dark:bg-zinc-900">
                 <div className="flex p-4 sm:p-6 flex-col items-center flex-grow ">
                 <p className="text-base sm:text-xl text-black mt-4 mb-2 dark:text-neutral-200 lg:text-2xl">
