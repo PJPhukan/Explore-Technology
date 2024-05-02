@@ -5,7 +5,7 @@ import { Spotlight } from "@/components/ui/Spotlight";
 
 const HomeSection = () => {
   return (
-    <div className="h-auto md:h-[40rem] w-full rounded-md flex flex-col justify-center items-center relative mx-auto py-10 md:py-0">
+    <div className="h-auto md:h-[40rem] w-full rounded-md flex flex-col justify-center items-center relative mx-auto py-10 md:py-0 dark:bg-black">
       <Spotlight
         className="-top-40 left-0 md:left-60 md:-top-20"
         fill="white"
