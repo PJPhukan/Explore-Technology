@@ -27,7 +27,7 @@ const Feature = () => {
           <h2 className="text-xl text-teal-900 uppercase text-bold">
             Featured Courses
           </h2>
-          <h1 className="text-6xl font-extrabold my-4 uppercase">
+          <h1 className="text-4xl font-extrabold my-4 uppercase">
             Learn With Us
           </h1>
         </div>
