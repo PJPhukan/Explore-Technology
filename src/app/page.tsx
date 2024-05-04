@@ -1,6 +1,7 @@
 import ChooseUs from "@/components/ChooseUs";
 import Feature from "@/components/Feature";
 import HomeSection from "@/components/HomeSection";
+import Instructors from "@/components/Instructors";
 import Testimonial from "@/components/Testimonial";
 import UpcommingWeb from "@/components/UpcommingWeb";
 export default function Home() {
@@ -11,6 +12,7 @@ export default function Home() {
       <ChooseUs/>
       <Testimonial/>
       <UpcommingWeb/>
+      <Instructors/>
     </div>
   );
 }
