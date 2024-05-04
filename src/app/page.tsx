@@ -1,5 +1,6 @@
 import ChooseUs from "@/components/ChooseUs";
 import Feature from "@/components/Feature";
+import Footer from "@/components/Footer";
 import HomeSection from "@/components/HomeSection";
 import Instructors from "@/components/Instructors";
 import Testimonial from "@/components/Testimonial";
@@ -13,6 +14,7 @@ export default function Home() {
       <Testimonial/>
       <UpcommingWeb/>
       <Instructors/>
+      <Footer/>
     </div>
   );
 }
