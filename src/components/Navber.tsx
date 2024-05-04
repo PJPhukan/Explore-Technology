@@ -24,8 +24,8 @@ const Navber = ({ className }: { className?: string }) => {
 
         <MenuItem setActive={setActive} active={active} item="Courses">
           <div className="flex flex-col space-y-4 ">
-            <HoveredLink href="/all-couse">All Couses</HoveredLink>
-            <HoveredLink href="/web-dev">Web Development</HoveredLink>
+            <HoveredLink href="/courses">All Couses</HoveredLink>
+            <HoveredLink href="/web-development">Web Development</HoveredLink>
             <HoveredLink href="/react">React.js Masterclass</HoveredLink>
             <HoveredLink href="/python">Python Programming</HoveredLink>
             <HoveredLink href="/data-science">Data Science</HoveredLink>
@@ -34,7 +34,7 @@ const Navber = ({ className }: { className?: string }) => {
             <HoveredLink href="/app-dev">Mobile App Development</HoveredLink>
           </div>
         </MenuItem>
-        <Link href={"/contact-us"}>
+        <Link href={"/contact"}>
           <MenuItem setActive={setActive} active={active} item="Contact Us" />
         </Link>
       </Menu>

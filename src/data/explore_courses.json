@@ -8,7 +8,7 @@
             "price": 49.99,
             "instructor": "John Doe",
             "isFeatured": true,
-            "image": "web-dev-fundamentals.jpg"
+            "image": "/courses/web-dev.jpg"
         },
         {
             "id": 2,
@@ -18,7 +18,7 @@
             "price": 79.99,
             "instructor": "Jane Smith",
             "isFeatured": true,
-            "image": "react-masterclass.jpg"
+            "image": "/courses/react.jpg"
         },
         {
             "id": 3,
@@ -28,7 +28,7 @@
             "price": 39.99,
             "instructor": "Mike Johnson",
             "isFeatured": true,
-            "image": "python-beginners.jpg"
+            "image": "/courses/python.jpg"
         },
         {
             "id": 4,
@@ -38,7 +38,7 @@
             "price": 99.99,
             "instructor": "Emily Brown",
             "isFeatured": false,
-            "image": "data-science-essentials.jpg"
+            "image": "/courses/data-science.jpg"
         },
         {
             "id": 5,
@@ -48,7 +48,7 @@
             "price": 69.99,
             "instructor": "David White",
             "isFeatured": true,
-            "image": "javascript-advanced.jpg"
+            "image": "/courses/js.jpg"
         },
         {
             "id": 6,
@@ -58,7 +58,7 @@
             "price": 59.99,
             "instructor": "Sarah Green",
             "isFeatured": true,
-            "image": "ui-ux-design.jpg"
+            "image": "/courses/uiux.jpg"
         },
         {
             "id": 7,
@@ -68,7 +68,7 @@
             "price": 89.99,
             "instructor": "Michael Anderson",
             "isFeatured": true,
-            "image": "mobile-app-development.jpg"
+            "image": "/courses/mbdevelopment.jpg"
         }
     ]
 }
